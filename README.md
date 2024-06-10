@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 #### I like graphs and computational humantities! 
 
 ### A little about me...
-- Wellesley College Class of 2025
-- Undergraduate majors in Data Science and English Literature
-- Work in Python, R, Java, and Javascript
-- I love the chance to learn new skills!
+- Wellesley College Class of 2025 💙
+- Undergraduate majors in Data Science 📊 and English Literature 📚
+- Work in Python, R, Java, and Javascript 🔢
+- I love the chance to learn new skills! 🧑‍💻
 
 ### Recent Projects
 - [Course Work](https://github.com/alikyrouz/CourseWork)
