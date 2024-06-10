@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm Ali (she/her), Wellesley College '25. I study data science and English literature! 
+#### I'm Ali (she/her) :) 
+#### I like graphs and computational humantities! 
 
 ### A little about me...
+- Wellesley College Class of 2025
+- Undergraduate majors in Data Science and English Literature
+- Work in Python, R, Java, and Javascript
+- I love the chance to learn new skills!
+
