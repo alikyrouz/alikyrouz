@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - I love the chance to learn new skills!
 
 ### Recent Projects
-- Course Work
+- [Course Work](/CourseWork)
 - spotify app 1
 - spotify app 2
 
