@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Ali (she/her), Wellesley College '25. I study data science and English literature! 
+### I'm Ali (she/her), Wellesley College '25. I study data science and English literature! 
