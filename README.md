@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 #### I'm Ali (she/her), Wellesley College '25. I study data science and English literature! 
+
+## A little about me...
