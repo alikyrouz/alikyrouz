@@ -1,4 +1,4 @@
-## Hi there 👋
+#Hi there 👋
 
 <!--
 **alikyrouz/alikyrouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 #### I'm Ali (she/her), Wellesley College '25. I study data science and English literature! 
 
-## A little about me...
+### A little about me...
