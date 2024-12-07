@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### A little about me...
 - Wellesley College Class of 2025 💙 💚
 - Undergraduate majors in Data Science 📊 and English Literature 📚
-- Work in Python, R, Java, and Javascript 🔢
+- Work in Python, R, Java, and Java 🔢
 
 ### Recent Projects
 - [Course Work](https://github.com/alikyrouz/CourseWork)
