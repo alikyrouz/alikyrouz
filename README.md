@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - Undergraduate majors in Data Science 📊 and English Literature 📚
 - Work in Python, R, and Java 🔢
 
-### Recent Projects
+<!-- ### Recent Projects
 - [Course Work](https://github.com/alikyrouz/CourseWork)
 - spotify app 1
-- spotify app 2
+- spotify app 2 -->
 
 
